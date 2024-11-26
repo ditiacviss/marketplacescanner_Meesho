@@ -1,0 +1,43 @@
+us: # United States
+  url: https://www.amazon.com
+ca: # Canada
+  url: https://www.amazon.ca
+mx: # Mexico
+  url: https://www.amazon.com.mx
+uk: # United Kingdom
+  url: https://www.amazon.co.uk
+de: # Germany
+  url: https://www.amazon.de
+fr: # France
+  url: https://www.amazon.fr
+it: # Italy
+  url: https://www.amazon.it
+es: # Spain
+  url: https://www.amazon.es
+nl: # Netherlands
+  url: https://www.amazon.nl
+se: # Sweden
+  url: https://www.amazon.se
+pl: # Poland
+  url: https://www.amazon.pl
+tr: # Turkey
+  url: https://www.amazon.com.tr
+jp: # Japan
+  url: https://www.amazon.co.jp
+in: # India
+  url: https://www.amazon.in
+au: # Australia
+  url: https://www.amazon.com.au
+sg: # Singapore
+  url: https://www.amazon.sg
+br: # Brazil
+  url: https://www.amazon.com.br
+ae: # United Arab Emirates
+  url: https://www.amazon.ae
+sa: # Saudi Arabia
+  url: https://www.amazon.sa
+eg: # Egypt
+  url: https://www.amazon.eg
+
+int: # International Shopping
+  url: https://www.amazon.com
